@@ -1,6 +1,6 @@
 # Greenhouse Gases Data Analysis
 # Tech Stack: Python, Pandas, Numpy, Matplotlib, Tableau
-
+# Tableau Dashboard: 
 Objective:
 
 Identifying the primary countries and industries driving GHG emissions over the past decade.​
@@ -18,6 +18,9 @@ Created interactive dashboards on Tableau to compare country/industry emissions 
 Motivation:
 
 Leveraging analytics to inspire awareness in the fight against climate change.
+
+
+![CO2 Emissions Dashboard](https://github.com/HusainMiyala/Greenhouse-Gases/assets/98285048/19b58894-d7e6-4704-bf99-0133581e0242)
 
 ![image](https://github.com/HusainMiyala/Greenhouse-Gases/assets/98285048/384f44f7-6cbd-4bfd-970b-a3950bad1880)
 ![image](https://github.com/HusainMiyala/Greenhouse-Gases/assets/98285048/e5ccbddf-69f6-4042-9f91-eb35bf256641)
