@@ -19,9 +19,10 @@ Motivation:
 
 Leveraging analytics to inspire awareness in the fight against climate change.
 
-
+Tableau Dashboard:
 ![CO2 Emissions Dashboard](https://github.com/HusainMiyala/Greenhouse-Gases/assets/98285048/19b58894-d7e6-4704-bf99-0133581e0242)
 
+Visualizations:
 ![image](https://github.com/HusainMiyala/Greenhouse-Gases/assets/98285048/384f44f7-6cbd-4bfd-970b-a3950bad1880)
 ![image](https://github.com/HusainMiyala/Greenhouse-Gases/assets/98285048/e5ccbddf-69f6-4042-9f91-eb35bf256641)
 ![image](https://github.com/HusainMiyala/Greenhouse-Gases/assets/98285048/c24d1e2b-6cef-4e62-9c58-c4b0aef51d68)
