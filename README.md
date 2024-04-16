@@ -1,5 +1,5 @@
-
-#Tech Stack: Python, Pandas, NumPy, Matplotlib, Tableau
+# Greenhouse Gases Data Analysis
+# Tech Stack: Python, Pandas, Numpy, Matplotlib, Tableau
 
 Objective:
 
