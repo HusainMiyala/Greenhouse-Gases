@@ -17,7 +17,8 @@
 
 ###### Leveraging analytics to inspire awareness in the fight against climate change.
 
-### Carbon Dioxide Dashboard: https://public.tableau.com/app/profile/husain5427/viz/CO2EmissionsViz_17069881326230/CO2EmissionsDashboard
+### Carbon Dioxide Dashboard: 
+https://public.tableau.com/app/profile/husain5427/viz/CO2EmissionsViz_17069881326230/CO2EmissionsDashboard
 
 ![CO2 Emissions Dashboard](https://github.com/HusainMiyala/Greenhouse-Gases/assets/98285048/19b58894-d7e6-4704-bf99-0133581e0242)
 
@@ -31,7 +32,7 @@ https://public.tableau.com/app/profile/husain5427/viz/N2OEmissionsViz/N2OEmissio
 
 ![N2O Emissions Dashboard](https://github.com/HusainMiyala/Greenhouse-Gases-Data-Analysis/assets/98285048/5e32a9ba-5e36-4bb1-ad3a-53a45fc7c749)
 
-EDA Visualizations:
+### EDA Visualizations:
 
 ![image](https://github.com/HusainMiyala/Greenhouse-Gases/assets/98285048/384f44f7-6cbd-4bfd-970b-a3950bad1880)
 ![image](https://github.com/HusainMiyala/Greenhouse-Gases/assets/98285048/e5ccbddf-69f6-4042-9f91-eb35bf256641)
