@@ -1,4 +1,4 @@
-# Greenhouse Gases Data Analysis
+# Greenhouse Gases Exploratory Data Analysis
 # Tech Stack: Python, Pandas, Numpy, Matplotlib, Tableau
 
 Objective:
