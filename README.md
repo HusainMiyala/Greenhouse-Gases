@@ -1,22 +1,21 @@
 # Greenhouse Gases Exploratory Data Analysis
 # Tech Stack: Python, Pandas, Numpy, Matplotlib, Tableau
 
-Objective:
+### Objective:
 
-Identifying the primary countries and industries driving GHG emissions over the past decade.​
+###### Identifying the primary countries and industries driving GHG emissions over the past decade.​
 
-Technical Specs:
+### Technical Specs:
 
-Merged, cleaned, and organized data from multiple files (60,000+ rows) using Pandas and NumPy.
+###### Merged, cleaned, and organized data from multiple files (60,000+ rows) using Pandas and NumPy.
 
-Visualized metrics (country/industry) with Pandas and Matplotlib.
+###### Visualized metrics (country/industry) with Pandas and Matplotlib.
 
-Created interactive dashboards on Tableau to compare country/industry emissions over time for each GHG.
+###### Created interactive dashboards on Tableau to compare country/industry emissions over time for each GHG.
 
+### Motivation:
 
-Motivation:
-
-Leveraging analytics to inspire awareness in the fight against climate change.
+###### Leveraging analytics to inspire awareness in the fight against climate change.
 
 Carbon Dioxide Dashboard: https://public.tableau.com/app/profile/husain5427/viz/CO2EmissionsViz_17069881326230/CO2EmissionsDashboard
 
